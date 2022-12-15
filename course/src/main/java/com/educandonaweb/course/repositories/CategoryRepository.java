@@ -1,0 +1,9 @@
+package com.educandonaweb.course.repositories;
+
+import com.educandonaweb.course.entities.Category;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CategoryRepository extends JpaRepository<Category, Long> {
+
+
+}
