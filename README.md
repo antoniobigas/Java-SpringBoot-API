@@ -3,5 +3,5 @@
 
 API Desenvolvida com as seguintes Tecnologias:
 
-Java, Spring Boot, Apache Tomcat, Maven, H2, Testes com Postman, PostgreSQL, Heroku
+Java, Spring Boot, Apache Tomcat, Maven, H2, Testes com Postman
  
